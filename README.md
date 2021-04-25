@@ -4,7 +4,7 @@ This is the upskilling gamification/tracker for Project Snowden. It consists of 
 
 ## Update Process
 
-The main Python code lives in `generate.py`, the data on modules, tasks, members and their progress lives in the equivalent `*.yml` files, the templated files live in `/templates`, while the current visible static site lives in `/docs`. In order to update the site, you should cut a new branch, update the YAML files with the new details, run `generate.py`, then commit the whole batch of changes. Once you push and merge that branch, the publicly visible website will have the updated information.
+The main Python code lives in `generate.py`, the data on modules, tasks, members and their progress lives in the equivalent `data/*.yml` files, the templated files live in `/templates`, while the current visible static site lives in `/docs`. In order to update the site, you should cut a new branch, update the YAML files with the new details, run `generate.py`, then commit the whole batch of changes. Once you push and merge that branch, the publicly visible website will have the updated information.
 
 ## Development process
 
