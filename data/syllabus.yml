@@ -1,0 +1,29 @@
+modules:
+  go:
+    name: "Go"
+    font-awesome-icon: "fas fa-code"
+    description: "Go tasks covering the basics and project specific tasks such as maths and science libraries and basic cryptography."
+    tasks:
+      G-001:
+        long_designation: "Go 001"
+        name: "Hello, world!"
+        task_details: "Go-Hello_World.md"
+        short_description: "Basic setup of a Go development environment and running your first program."
+      G-002:
+        long_designation: "Go 002"
+        name: "Functions"
+        task_details: "Go-Functions.md"
+        short_description: "Going from global scripts entirely in Main() to functions."
+      G-003:
+        long_designation: "Go 003"
+        name: "Packages"
+        task_details: "Go-Packages.md"
+        short_description: "Packaging Go code into reusable parcels."
+  cloud-infrastructure:
+    name: "Cloud Infrastructure"
+    font-awesome-icon: "fas fa-cloud"
+    description: "The Cloud Infrastructure syllabus is currently being finalised. Please check back soon!"
+  software-engineering:
+    name: "Software Engineering"
+    font-awesome-icon: "fas fa-user-cog"
+    description: "The Software Engineering syllabus is currently being finalised. Please check back soon!"
