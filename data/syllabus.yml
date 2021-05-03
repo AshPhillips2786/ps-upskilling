@@ -19,6 +19,11 @@ modules:
         name: "Packages"
         task_details: "Go-Packages.md"
         short_description: "Packaging Go code into reusable parcels."
+      G-004:
+        long_designation: "Go 004"
+        name: "Codewars - Intro Task"
+        task_details: "Go-Codewars.md"
+        short_description: "Signing up to Codewars and completing your first Kata"
   cloud-infrastructure:
     name: "Cloud Infrastructure"
     font-awesome-icon: "fas fa-cloud"
