@@ -24,6 +24,11 @@ modules:
         name: "Codewars - Intro Task"
         task_details: "Go-Codewars.md"
         short_description: "Signing up to Codewars and completing your first Kata"
+      G-005:
+        long_designation: "Go 005"
+        name: "Codewars - Factorial"
+        task_details: "Go-Codewars-Factorial.md"
+        short_description: "Writing a Go function based off a mathematical model"
   cloud-infrastructure:
     name: "Cloud Infrastructure"
     font-awesome-icon: "fas fa-cloud"
