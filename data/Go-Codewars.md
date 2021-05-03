@@ -15,8 +15,9 @@ Codewars is an interactive programming training resource that covers a great man
 - To get used to how Codewars functions, once logged in, click the search icon on the left and search for the string "Convert boolean values to strings", and click the Kata titled "Convert boolean values to strings 'Yes' or 'No'". Alternatively, head straight to the Kata [here](https://www.codewars.com/kata/53369039d7ab3ac506000467)
 - Click the '|> Train' button in the top right
 - You now need to complete the function on the right, `BoolToWord`, to return a "Yes" or a "No" based on the input. You can also see the test setup in the bottom right window.
-- Click the Attempt button at the bottom right and edit the code, using the Test button as you go to run your code. Output is shown in the left, under the Output tab.
-- Once your code is passing the tests (of which in other Kata you may be required to write as well!), you can click Submit to submit your solution.
+- Use the Test button as you go to run your code. Output is shown in the left, under the Output tab.
+- Once your code is passing the tests (of which in other Kata you may be required to write as well, or you may want to tweak to be extra sure), use the Attempt button, bottom right also, to test your code against a more comprehensive set of test cases.
+- Once your code passes the full test suite, you can click Submit to submit your solution.
 - Once your solution is submitted and analysed, you will see feedback on how you've done. Please take the time to work out what this screen is telling you, there is quite a bit of useful information here. In particular, take note of the information shown while Show Me: "All Solutions" is selected versus "My Solutions".
 
 ## Submission for this task
